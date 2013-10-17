@@ -1,3 +1,0 @@
-A:
-	g++ -Wall -g A.cc 
-	./a.out < inputA
